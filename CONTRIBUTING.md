@@ -2,14 +2,14 @@
 
 **🌟.** Star🌟 the repository to appreciate the work.
 
-**1.** Fork [this](https://github.com/GDSC-IETDAVV/hacktoberfest_2022.git) repository.
+**1.** Fork [this](https://github.com/GDSC-IETDAVV/hacktoberfest2k22.git) repository.
 
 ![step1](https://user-images.githubusercontent.com/72425181/122670266-be43ee80-d1de-11eb-9330-8d07ce2bd7ab.png)
 
 **2.** Clone your forked copy of the project.
 
 ```
-git clone  https://github.com/<your_user_name>/hacktoberfest_2022.git
+git clone  https://github.com/GDSC-IETDAVV/hacktoberfest2k22.git
 ```
 
 **3.** Navigate to the project directory :file_folder: .
@@ -21,7 +21,7 @@ cd hacktoberfest2k22
 **4.** Add a reference(remote) to the original repository.
 
 ```
-git remote add upstream https://github.com/GDSC-IETDAVV/hacktoberfest_2022.git
+git remote add upstream https://github.com/GDSC-IETDAVV/hacktoberfest2k22.git
 ```
 
 **5.** Check the remotes for this repository.
@@ -43,6 +43,8 @@ git checkout -b <your_branch_name>
 ```
 
 **8.** Perform your desired changes to the code base.
+  - Solve previously raised issues.
+  - Raise issue if you have any idea.
 
 <p align="center"><img width=35% src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pzi2rpig0vc8pjusra8hiai1b91zgiywvbubu9vu&rid=giphy.gif"></p>
 
@@ -75,7 +77,7 @@ git push -u origin <your_branch_name>
 An easy way to avoid conflicts is to add an 'upstream' for your git repo, as other PR's may be merged while you're working on your branch/fork.
 
 ```terminal
-git remote add upstream https://github.com/GDSC-IETDAVV/hacktoberfest_2022.git
+git remote add upstream https://github.com/GDSC-IETDAVV/hacktoberfest2k22.git
 ```
 
 You can verify that the new remote has been added by typing
