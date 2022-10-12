@@ -108,39 +108,6 @@ Steps for adding your name below
 
 ## Contributors
 
-<table>
-<tr>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/satyampgt4>
-            <img src=https://avatars.githubusercontent.com/u/59261812?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Satyam Dengre/>
-            <br />
-            <sub style="font-size:14px"><b>Satyam Dengre</b></sub>
-        </a>
-    </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/saurabhtopthon01>
-            <img src=https://avatars.githubusercontent.com/u/55596640?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Saurabh Kumar singh/>
-            <br />
-            <sub style="font-size:14px"><b>Saurabh Kumar singh</b></sub>
-        </a>
-    </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/kashif-raza2019>
-            <img src=https://avatars.githubusercontent.com/u/56609517?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Kashif Raza/>
-            <br />
-            <sub style="font-size:14px"><b>Kashif Raza</b></sub>
-        </a>
-    </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/Arpitjain85>
-            <img src=https://avatars.githubusercontent.com/u/95426471?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Arpit jain/>
-            <br />
-            <sub style="font-size:14px"><b>Arpit jain</b></sub>
-        </a>
-    </td>
-</tr>
-</table>
-
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
