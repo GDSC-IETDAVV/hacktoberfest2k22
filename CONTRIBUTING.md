@@ -18,7 +18,7 @@ git clone  https://github.com/GDSC-IETDAVV/hacktoberfest2k22.git
 cd hacktoberfest2k22
 ```
 
-**4.** Add a reference(remote) to the original repository.
+**4.** Add a reference (remote) to the original repository.
 
 ```
 git remote add upstream https://github.com/GDSC-IETDAVV/hacktoberfest2k22.git
@@ -30,7 +30,7 @@ git remote add upstream https://github.com/GDSC-IETDAVV/hacktoberfest2k22.git
 git remote -v
 ```
 
-**6.** Always take a pull from the upstream repository to your main branch to keep it at par with the main project(updated repository).
+**6.** Always take a pull from the upstream repository to your main branch to keep it at par with the main project (updated repository).
 
 ```
 git pull upstream main
@@ -48,13 +48,13 @@ git checkout -b <your_branch_name>
 
 <p align="center"><img width=35% src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pzi2rpig0vc8pjusra8hiai1b91zgiywvbubu9vu&rid=giphy.gif"></p>
 
-**9.** add your changes:heavy_check_mark: .
+**9.** add your changes:heavy_check_mark:
 
 ```
 git add .
 ```
 
-**10.** Commit your changes .
+**10.** Commit your changes
 
 ```
 git commit -m "Relevant message"
